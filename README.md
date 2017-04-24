@@ -15,16 +15,16 @@ CuPy is tested on Ubuntu 14.04 and CentOS 7. We recommend them to use CuPy, thou
 
 Minimum requirements:
 - Python 2.7.6+, 3.4.3+, 3.5.1+, 3.6.0+
-- NumPy 1.9, 1.10, 1.11, 1.12
+- NumPy 1.10, 1.11, 1.12
 - Six 1.9
 
 Requirements for some features:
 - CUDA support
-  - CUDA 6.5, 7.0, 7.5, 8.0
+  - CUDA 7.0, 7.5, 8.0
   - filelock
   - g++ 4.8.4+
 - cuDNN support
-  - cuDNN v2, v3, v4, v5, v5.1, v6
+  - cuDNN v3, v4, v5, v5.1, v6
 - Testing utilities
   - Mock
   - Nose
